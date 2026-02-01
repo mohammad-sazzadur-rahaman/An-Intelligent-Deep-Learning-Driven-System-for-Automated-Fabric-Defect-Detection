@@ -8,48 +8,43 @@ The project focuses on detecting and localizing fabric defects using the YOLOv8 
 
 ***Repository Contents***
 The following files are included in this GitHub repository:
-Yolov8_model_1_training.ipynb
-Jupyter Notebook used for dataset preparation, YOLOv8 model training, validation, and evaluation.
-best.pt
-Trained YOLOv8s model weights obtained from the experimental study.
-demo website.py
-Python script for a simple web-based fabric defect detection demo using the trained YOLOv8 model.
-Model result.zip
-Archived output files related to model training and evaluation results.
-README.md
-Project description and usage information.
+Yolov8_model_1_training.ipynb <br>
+Trained YOLOv8s model weights obtained from the experimental study.<br>
+demo website.py<br>
+Model result.zip<br>
+
 
 ***Additional Project Materials***
-Due to file size limitations and repository cleanliness, some supporting materials are not hosted directly on GitHub.
-These materials include:
-Full annotated fabric defect dataset (YOLO format)
-Android application package (.apk) for real-time mobile-based detection
-Additional experimental outputs and supporting files
-All supplementary materials are available at the following Google Drive link:
-🔗 Google Drive (Supporting Materials):
-https://drive.google.com/drive/folders/1boKgGq1q8G6UyJP09cAGpa5UZzph8kOd?usp=drive_link
+Due to file size limitations and repository cleanliness, some supporting materials are not hosted directly on GitHub. <br>
+These materials include:<br>
+Full annotated fabric defect dataset (YOLO format)<br>
+Android application package (.apk) for real-time mobile-based detection<br>
+Additional experimental outputs and supporting files<br>
+All supplementary materials are available at the following Google Drive link:<br>
+🔗 Google Drive (Supporting Materials):<br>
+https://drive.google.com/drive/folders/1boKgGq1q8G6UyJP09cAGpa5UZzph8kOd?usp=drive_link<br>
 These files are provided for academic verification, evaluation, and demonstration purposes.
 
 ***Defect Classes: The model is trained to detect the following fabric defect classes:***
-Hole
-Knot
-Line
-Stain
+Hole<br>
+Knot<br>
+Line<br>
+Stain<br>
 
 ***Frameworks & Tools:***
-Python
-Ultralytics YOLOv8
-Jupyter Notebook
-OpenCV
-Streamlit (for web-based demo)
+Python<br>
+Ultralytics YOLOv8<br>
+Jupyter Notebook<br>
+OpenCV<br>
+Streamlit (for web-based demo)<br>
 
 ***Notes:***
-Large datasets and deployment files are intentionally excluded from the GitHub repository.
-The repository is intended to support reproducibility and academic review.
-The project was developed as part of the B.Sc. in Textile Engineering (Fabric Engineering) program.
+Large datasets and deployment files are intentionally excluded from the GitHub repository.<br>
+The repository is intended to support reproducibility and academic review.<br>
+The project was developed as part of the B.Sc. in Textile Engineering (Fabric Engineering) program.<br>
 
 
-Author:
-Mohammad Sazzadur Rahaman
-B.Sc. in Textile Engineering (specialization Fabric Engineering)
+Author:<br>
+Mohammad Sazzadur Rahaman<br>
+B.Sc. in Textile Engineering (specialization Fabric Engineering)<br>
 Bangladesh University of Textiles
