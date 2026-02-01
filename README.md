@@ -7,7 +7,7 @@ This repository contains the core implementation files for the undergraduate the
 The project focuses on detecting and localizing fabric defects using the YOLOv8 object detection framework, along with a lightweight web-based demonstration system.
 
 ***Repository Contents***
-The following files are included in this GitHub repository:
+The following files are included in this GitHub repository:<br>
 Yolov8_model_1_training.ipynb <br>
 Trained YOLOv8s model weights obtained from the experimental study.<br>
 demo website.py<br>
